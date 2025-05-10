@@ -18,11 +18,27 @@
 - Advanced Flutter Techniques for Cross-Platform Apps
 - Backend Scripting and Automation with Python
 
+---
+
+### 🐍 Python Projects & Highlights
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- 🔧 Built CLI tools for automation and file handling
+- 🌐 Developed REST APIs using Flask and Django
+- 📊 Used Python in data processing, visualization, and scripting tasks
+
+---
+
 ### 👨‍💻 Projects & Portfolio
 Check out my work here 👉 [My GitHub Portfolio](https://github.com/Aaryankarki/Aaryan/)
 
+---
+
 ### 📫 How to Reach Me
 - Email: **aaryankarki01@gmail.com**
+
+---
 
 ### 🔗 Connect With Me
 <p align="left">
